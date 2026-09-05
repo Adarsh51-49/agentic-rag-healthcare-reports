@@ -1,0 +1,6 @@
+,question_relevance_cosine,question_relevance_cosine,question_relevance_cosine,evidence_support_mean,evidence_support_mean,evidence_support_mean,evidence_coverage_mean,evidence_coverage_mean,evidence_coverage_mean,flesch_reading_ease,flesch_reading_ease,flesch_reading_ease,type_token_ratio,type_token_ratio,type_token_ratio,word_count,word_count,word_count,section_count,section_count,section_count,generation_seconds,generation_seconds,generation_seconds
+,mean,std,median,mean,std,median,mean,std,median,mean,std,median,mean,std,median,mean,std,median,mean,std,median,mean,std,median
+condition,,,,,,,,,,,,,,,,,,,,,,,,
+A,0.74,0.0781,0.7535,0.5061,0.0499,0.5079,0.6405,0.0689,0.64,5.9225,7.4982,5.1536,0.59,0.0376,0.5903,318.9333,65.6783,288.0,3.6667,0.488,4.0,24.5713,5.3873,22.6
+B,0.7086,0.085,0.7204,0.4806,0.0586,0.4725,0.6426,0.0734,0.6737,11.8439,7.228,12.3596,0.5623,0.0448,0.5503,391.2,69.1822,378.0,4.0,0.0,4.0,72.8447,10.577,69.04
+C,0.6164,0.1007,0.6194,0.5035,0.0532,0.5171,0.6594,0.0541,0.6616,3.3016,8.4796,2.4733,0.5321,0.0541,0.5444,498.0667,48.4952,503.0,4.0,0.0,4.0,212.5433,18.2783,213.31

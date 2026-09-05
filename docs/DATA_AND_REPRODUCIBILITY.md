@@ -1,7 +1,8 @@
 # Data and reproducibility
 
-The public repository contains code only. It excludes full article text,
-embeddings, generated reports, judge outputs and ethics documentation.
+The public repository contains code and aggregate results. It excludes full
+article text, embeddings, generated reports, raw judge explanations and ethics
+documentation.
 
 The notebooks record model identifiers/revisions, random seeds, package versions,
 checksums and traces. Authorised reviewers can receive the frozen evidence files

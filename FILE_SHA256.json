@@ -1,0 +1,20 @@
+{
+  ".gitignore": "ddf7ccd8191df3e221f6e2057881123a8a4f955fc5fd9765801e62b58b9c1121",
+  "README.md": "18a2cbe5fc3fd53bc7fa13dd43f516e60363b890d73645da78169de7a4cc125e",
+  "docs/DATA_AND_REPRODUCIBILITY.md": "c359c2fa6f410d69149972d541f0f96084a5f0fa4fa10e921363e5804ab6dce6",
+  "docs/LIMITATIONS.md": "7a76736e558145b0ce9b586fbe817fb629958f009723ecc850d5215c1abc194c",
+  "notebooks/00_START_HERE_Live_Project_Demo.ipynb": "9e21b69a260f7a27b089d93fd96694deda61da43e87813610f1ff030340c9c9d",
+  "notebooks/stages/Adarsh_Konderu_Stage_2_PMC_Corpus_Colab.ipynb": "26ee1c247a6011fddcd8331d888e2aa247fe1db0c57ee9df52bc2c996013c5cc",
+  "notebooks/stages/Adarsh_Konderu_Stage_3_1_Hybrid_Retrieval_Colab.ipynb": "e61c67e61bfbd36464972ca98c7611ff01e98ad11ce125688abe8e5e22c6e6f4",
+  "notebooks/stages/Adarsh_Konderu_Stage_3_2_Clean_Corpus_and_Question_Screening_Colab_v2.ipynb": "4e456b0741b9b60912ae71c8631ae09db28b04c98499116556178dd55b0488f2",
+  "notebooks/stages/Adarsh_Konderu_Stage_3_RAG_Retrieval_Colab.ipynb": "eaa8dc1d549182167b89818240c25839f9e19d6fa3a4245f00a3d3eb3b8ea7ba",
+  "notebooks/stages/Adarsh_Konderu_Stage_4_1_Claim_Verification_Colab_v3.ipynb": "c2bf421f358e38ac9f14de6410a7d23b4aba5fcb82c7f4337585740a365d34f5",
+  "notebooks/stages/Adarsh_Konderu_Stage_5_Formal_Batch_1_Colab.ipynb": "721e126e8b8b11d027c27ba14aa3d015babe1264aaf9ba73675db4508cfed045",
+  "notebooks/stages/Adarsh_Konderu_Stage_5_Formal_Batch_2_Colab.ipynb": "5bb49d28f1ae5d43161ef6141285c9e5939fb554104b902158b185857a27fcc9",
+  "notebooks/stages/Adarsh_Konderu_Stage_5_Formal_Batch_3_Colab.ipynb": "15140e13e39fda9bbc2ceae0bfb89c13897ed1b6d8f428a949b6db1f00247b07",
+  "notebooks/stages/Adarsh_Konderu_Stage_6_1_Automated_Evaluation_Colab_v3.ipynb": "32a5cdb24a93aec9f55f061a9447b3c69e633499c97b46e8409e80da94141e5f",
+  "notebooks/stages/Adarsh_Konderu_Stage_6_2_Judge_1_Granite_Colab.ipynb": "0b3005b456ddc070d1bf093b53c9e59e19668ab546dc8eb4eb34211d2804d072",
+  "notebooks/stages/Adarsh_Konderu_Stage_6_2_Judge_2_Mistral_Colab.ipynb": "383549506f29aa9bcc7b90023c08d123bdac9c5fc8c89557fb5ac955a9accc05",
+  "notebooks/stages/Adarsh_Konderu_Stage_6_2_Judge_3_Phi_Colab.ipynb": "465633fbb4d1154f0050925eb286eaf82967a13c1b3df8e2ab08072c6852d630",
+  "notebooks/stages/build_stage_6_2_combined_analysis.py": "b4ec9b11198d922c2359233643aaa98f29cea2e7b6c952f9b5d8d35a1057f069"
+}

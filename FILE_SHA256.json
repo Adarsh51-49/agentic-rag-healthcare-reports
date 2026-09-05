@@ -1,7 +1,7 @@
 {
   ".gitignore": "ddf7ccd8191df3e221f6e2057881123a8a4f955fc5fd9765801e62b58b9c1121",
-  "README.md": "18a2cbe5fc3fd53bc7fa13dd43f516e60363b890d73645da78169de7a4cc125e",
-  "docs/DATA_AND_REPRODUCIBILITY.md": "c359c2fa6f410d69149972d541f0f96084a5f0fa4fa10e921363e5804ab6dce6",
+  "README.md": "fceb87260e330ef796fb8161ec992d3d0e55ea72d89cc42dd659e04d306c8e4a",
+  "docs/DATA_AND_REPRODUCIBILITY.md": "6b2711041d443fca5b8ba0092eec4326e48ddecb0f66cbcf0149bba2d98257ed",
   "docs/LIMITATIONS.md": "7a76736e558145b0ce9b586fbe817fb629958f009723ecc850d5215c1abc194c",
   "notebooks/00_START_HERE_Live_Project_Demo.ipynb": "9e21b69a260f7a27b089d93fd96694deda61da43e87813610f1ff030340c9c9d",
   "notebooks/stages/Adarsh_Konderu_Stage_2_PMC_Corpus_Colab.ipynb": "26ee1c247a6011fddcd8331d888e2aa247fe1db0c57ee9df52bc2c996013c5cc",
@@ -16,5 +16,14 @@
   "notebooks/stages/Adarsh_Konderu_Stage_6_2_Judge_1_Granite_Colab.ipynb": "0b3005b456ddc070d1bf093b53c9e59e19668ab546dc8eb4eb34211d2804d072",
   "notebooks/stages/Adarsh_Konderu_Stage_6_2_Judge_2_Mistral_Colab.ipynb": "383549506f29aa9bcc7b90023c08d123bdac9c5fc8c89557fb5ac955a9accc05",
   "notebooks/stages/Adarsh_Konderu_Stage_6_2_Judge_3_Phi_Colab.ipynb": "465633fbb4d1154f0050925eb286eaf82967a13c1b3df8e2ab08072c6852d630",
-  "notebooks/stages/build_stage_6_2_combined_analysis.py": "b4ec9b11198d922c2359233643aaa98f29cea2e7b6c952f9b5d8d35a1057f069"
+  "notebooks/stages/build_stage_6_2_combined_analysis.py": "b4ec9b11198d922c2359233643aaa98f29cea2e7b6c952f9b5d8d35a1057f069",
+  "results/README.md": "ca2b8c2edf66c7daa587539754692498aae51bf58fadccbecbd56b721e03e9c9",
+  "results/figures/01_three_judge_comparison.png": "f3f7aed4bbd61728244a13abc5f68e30dc570f5c467f33f1016893567b2fb890",
+  "results/figures/02_generation_time.png": "8c9d637ab8dfdacfc6e431e2ad167949a997d2e9b0fc0bde423d44c091cf127f",
+  "results/figures/03_structure_checks.png": "1a328358e799ee5ea589bd8e0079b537ff4535fe945e40384399d1113b4c84d0",
+  "results/figures/04_automated_measures.png": "3837cbd77791dc431d25f69e25aaa38c42b2cc2ae69ee0661b51938d2338a498",
+  "results/tables/automated_metrics_descriptive_summary.csv": "d35b74c87b24f1d259c84d3ce64cec48bc03f8409cec11aebbacfafb34224f35",
+  "results/tables/automated_metrics_statistical_tests.csv": "21fd50c9aeab25d2b655aaa33bd2d750962919eb722b2ac08d6023b412f6a44a",
+  "results/tables/judge_condition_summary.csv": "c474c546aae132544699b71535c494534ea7b19d9da5007c8d7303ee483f5a57",
+  "results/tables/pooled_judge_summary.csv": "53f252bb18fc6dcaefc072d00beaf09230dc093721a042ed4b142f45e24394c3"
 }

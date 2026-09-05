@@ -130,6 +130,28 @@ misread evidence or produce invalid structured output. I therefore treat their
 scores as additional experimental evidence, not as proof of correctness. A
 carefully designed human evaluation would strengthen the project in future work.
 
+## Key results
+
+- Agentic Conditions B and C passed the required structure check for all 15
+  reports, compared with 10 of 15 for Condition A.
+- Condition C provided 92 visible citations and the highest mean evidence coverage
+  (0.659), but it was approximately 8.7 times slower than Condition A.
+- The pooled judge score was 4.133 for A, 4.182 for B and 3.969 for C. The
+  difference was not statistically significant (Friedman p = .109).
+- Agreement between the three judges was low (ICC(2,1) = .058), so one automated
+  judge would not be a reliable substitute for human evaluation.
+
+The graphs below are derived from the frozen evaluation records. Full-size images
+and aggregate CSV tables are available in [`results/`](results/).
+
+![Three-judge comparison](results/figures/01_three_judge_comparison.png)
+
+![Generation-time comparison](results/figures/02_generation_time.png)
+
+![Structure-check comparison](results/figures/03_structure_checks.png)
+
+![Automated evaluation measures](results/figures/04_automated_measures.png)
+
 ## Repository structure
 
 ```text
@@ -139,6 +161,10 @@ carefully designed human evaluation would strengthen the project in future work.
 ├── docs/
 │   ├── DATA_AND_REPRODUCIBILITY.md
 │   └── LIMITATIONS.md
+├── results/
+│   ├── README.md
+│   ├── figures/ — four evaluation graphs
+│   └── tables/ — aggregate descriptive and statistical results
 └── notebooks/
     ├── 00_START_HERE_Live_Project_Demo.ipynb
     └── stages/
@@ -210,11 +236,11 @@ for accidental changes.
 
 ## Data availability and privacy
 
-This public repository contains code only. It intentionally excludes full article
-text, embeddings, generated reports, evaluation archives, ethics documentation,
-personal information and other assessment material. Authorised reviewers can
-receive frozen evidence privately when required. More information is provided in
-`docs/DATA_AND_REPRODUCIBILITY.md`.
+This public repository contains code and aggregate evaluation results. It
+intentionally excludes full article text, embeddings, generated reports, raw judge
+explanations, ethics documentation, personal information and other assessment
+material. Authorised reviewers can receive frozen evidence privately when
+required. More information is provided in `docs/DATA_AND_REPRODUCIBILITY.md`.
 
 ## Current limitations
 

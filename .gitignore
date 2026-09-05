@@ -1,1 +1,19 @@
-
+# Never publish credentials, research data or assessment documents
+.env
+.env.*
+*.key
+*.pem
+private_inputs/
+data/
+evidence/
+outputs/
+runs/
+ethics/
+reports/
+friend_samples/
+*.zip
+*.tar
+*.tar.gz
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
